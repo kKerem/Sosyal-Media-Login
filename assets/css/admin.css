@@ -1,0 +1,40 @@
+.kkerem-sl-provider {
+	margin-bottom: 20px;
+	padding: 15px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+}
+
+.kkerem-sl-provider-fields {
+	margin-top: 10px;
+	padding-left: 20px;
+	transition:none;
+}
+
+.kkerem-sl-provider-fields p {
+	margin-bottom: 10px;
+}
+
+.kkerem-sl-provider-fields label {
+	display: block;
+	margin-bottom: 5px;
+	font-weight: 600;
+}
+
+.kkerem-sl-provider-fields input[type="text"] {
+	width: 100%;
+	max-width: 400px;
+}
+
+.kkerem-sl-provider-fields .description {
+	font-style: italic;
+	color: #666;
+	margin-top: 5px;
+}
+
+.kkerem-sl-provider-fields code {
+	background: #f1f1f1;
+	padding: 2px 4px;
+	border-radius: 3px;
+	font-family: monospace;
+}
