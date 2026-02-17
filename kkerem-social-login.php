@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: kKerem - Sosyal Medya İle Giriş Yap
-Plugin URI: https://example.com
+Plugin URI: https://kkerem.com/projeler/bildirim-sistemi
 Description: WooCommerce için sosyal medya ile giriş. Google ile giriş örnek sağlayıcı ve daha fazlası için genişletilebilir yapı.
 Version: 0.1.0
 Author: kKerem
-Author URI: https://example.com
+Author URI: http://kkerem.com
 License: GPLv2 or later
 Text Domain: kkerem-social-login
 Domain Path: /languages
